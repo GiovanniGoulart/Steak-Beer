@@ -1,0 +1,138 @@
+/* GLOBAL */
+
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 854px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEAFAV6uHLVIKpdqXtKAKvZu9Nul-RTqN8i5CwhBePGbRTHzxOgNmNV2rvb5wNu0YjUW0&usqp=CAU");
+    background-color: #000000;
+    background-position: center top;
+    background-repeat: no-repeat;
+    padding-bottom:2vh
+    
+   
+}
+
+.container {
+    text-align:center;
+    padding: 5px;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 5px 0;
+  
+}
+
+
+
+h2 {
+    color: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #810707;
+    /* hex: 0-F */
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+
+/* FONTS */
+
+h1,
+h2,
+h3,
+.price {
+    font-family: 'Roboto Serif', serif;
+    color: white;
+}
+
+
+/* HEADER */
+
+header {
+    max-width: 300px;
+  
+
+    padding:32px 0;
+    text-align: center;
+    margin:200px 320px 1px  ;
+
+}
+section {
+
+    max-width: 500px;
+   
+    margin: 0 auto;
+ 
+    
+}
+
+header h1 {
+    margin-bottom: 4px;
+    font-size: 28px;
+    line-height: 33px;
+}
+
+header h1 span {
+    color: #e08011
+    
+    
+}
+
+header p {
+    font-size: 14px;
+    line-height: 16px;
+    color: rgb(185, 183, 34);
+    
+}
+
+
+/* SECTION */
+
+section {
+    margin-bottom: 24px;
+}
+
+section h2 {
+    background-color: #e08011;
+    padding: 8px 16px;
+    text-align: center;
+    margin-bottom: 24px;
+    
+    font-size: 18px;
+}
+
+
+/* LISTA */
+
+ul li {
+    margin-bottom: 16px;
+    display: flex;
+}
+
+li .details {
+    max-width: 240px;
+  
+}
+
+.details h3 {
+    margin-bottom: 8px;
+    font-size: 16px;
+    line-height: 19px;
+  
+}
+
+.details p {
+    color: white;
+    font-size: 14px;
+    line-height: 21px;
+}
