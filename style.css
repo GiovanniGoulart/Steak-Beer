@@ -8,28 +8,9 @@ body {
     background-position: center top;
     background-repeat: no-repeat;
     padding-bottom:2vh
- 
-   
-}
+ }
 
-.container {
-    text-align:center;
-    padding: 5px;
-}
-
-.page-title {
-    color: #ffffff;
-    margin: 5px 0;
-  
-}
-
-
-
-h2 {
-    color: white;
-}
-
-* {
+  * {
     margin: 0;
     padding: 0;
 }
