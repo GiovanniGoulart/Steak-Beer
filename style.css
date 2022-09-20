@@ -52,7 +52,7 @@ h2,
 h3,
 .price {
     font-family: 'Roboto Serif', serif;
-    font-size:;
+  
     color: white;
  
     
@@ -69,12 +69,12 @@ header {
 
     padding:32px 0;
     text-align: center;
-    margin:200px 300px 1px  ;
+    margin:200px 350px 1px  ;
 
 }
 section {
 
-    max-width: 500px;
+    max-width: 300px;
   
     margin: 0 auto;
  
