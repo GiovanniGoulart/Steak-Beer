@@ -45,7 +45,7 @@ header{
 }
 section{
     margin-bottom: 5px;
-     color:#E08011;
+     color:white;
     font-size: 16px;
 }
 
@@ -71,7 +71,8 @@ header p {
     }
     .price{
      
-       font-family: 'Roboto Serif', serif;  
+       font-family: 'Roboto Serif', serif; 
+       margin-left: auto; 
     }
    
     .details h3{
@@ -84,7 +85,7 @@ header p {
     }
     span{
         font-size: 16px;
-        color:white;
+        color:#E08011;
     }
    
     
