@@ -16,7 +16,7 @@ body {
 
 body{
       font-family: 'Roboto', sans-serif;
-    background-color: #810707;
+    background-color:  #730202;;
 }
 ul{
     list-style: none;
@@ -45,14 +45,14 @@ header{
 }
 section{
     margin-bottom: 5px;
-     color:white;
+     color:#E4CA75;
     font-size: 16px;
 }
 
 header p {
     font-size: 12px;
     line-height: 16px;
-    color:white;
+    color:#edc256d5;
 }
 
     h2{
@@ -60,7 +60,7 @@ header p {
         background-color: #000000;
         margin-bottom: 2px;
         
-        color: #E08011;
+        color:  #E4CA75;
           font-family: 'Roboto Serif', serif;
        
     }
@@ -85,7 +85,7 @@ header p {
     }
     span{
         font-size: 16px;
-        color:#E08011;
+        color:#f7c600d1;
     }
    
     
