@@ -1,7 +1,7 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Steak-Beer </h1>
 
 <p align="center">
-Criação de um projeto durante estudos realizados sobre programação de computadores. 
+Criação de um  cardapio com QR CODE para atender uma demanda. 
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Criação de um projeto durante estudos realizados sobre programação de comput
 <br>
 
 <p align="center">
-  <img alt="Projeto Steak-Beer" src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEAFAV6uHLVIKpdqXtKAKvZu9Nul-RTqN8i5CwhBePGbRTHzxOgNmNV2rvb5wNu0YjUW0&usqp=CAU)" width="100%">
+  <img alt="Projeto Steak-Beer" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
